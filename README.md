@@ -4,7 +4,7 @@
 
 ## 公開先
 
-[経済と政策の見方（GitHub Pages）](https://yhayashi-dev.github.io/economy-explained/)
+[経済と政策の見方（GitHub Pages）](https://yhayashi7036-code.github.io/economy-explained/)
 
 ## 技術
 

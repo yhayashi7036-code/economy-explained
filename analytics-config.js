@@ -2,7 +2,7 @@ window.SuzumeAnalyticsConfig = {
   "enabled": true,
   "measurementId": "G-YRNBP3YGN7",
   "siteId": "P11",
-  "origin": "https://yhayashi-dev.github.io",
+  "origin": "https://yhayashi7036-code.github.io",
   "basePath": "/economy-explained/",
   "privacyUrl": "/economy-explained/privacy.html",
   "pages": {
